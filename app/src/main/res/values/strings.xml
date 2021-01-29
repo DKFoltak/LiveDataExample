@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveDataExample</string>
+    <string name="cambiarTexto">Cambiar texto</string>
+    <string name="check_deshabilitar">Deshabilitar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="cambiandoTexto">Cambiando Texto</string>
+</resources>
